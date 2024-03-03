@@ -1,0 +1,53 @@
+,task_name,task_intro,task_type,question_num,correct_rate
+0,computer_network,计算机网络,STEM,19,0.42105263157894735
+1,operating_system,操作系统,STEM,19,0.3684210526315789
+2,computer_architecture,计算机组成,STEM,21,0.47619047619047616
+3,college_programming,大学编程,STEM,37,0.5945945945945946
+4,college_physics,大学物理,STEM,19,0.2631578947368421
+5,college_chemistry,大学化学,STEM,24,0.3333333333333333
+6,advanced_mathematics,高等数学,STEM,19,0.3157894736842105
+7,probability_and_statistics,概率统计,STEM,18,0.2777777777777778
+8,discrete_mathematics,离散数学,STEM,16,0.1875
+9,electrical_engineer,注册电气工程师,STEM,37,0.2702702702702703
+10,metrology_engineer,注册计量师,STEM,24,0.625
+11,high_school_mathematics,高中数学,STEM,18,0.5
+12,high_school_physics,高中物理,STEM,19,0.5789473684210527
+13,high_school_chemistry,高中化学,STEM,19,0.42105263157894735
+14,high_school_biology,高中生物,STEM,19,0.6842105263157895
+15,middle_school_mathematics,初中数学,STEM,19,0.631578947368421
+16,middle_school_biology,初中生物,STEM,21,0.8571428571428571
+17,middle_school_physics,初中物理,STEM,19,0.7368421052631579
+18,middle_school_chemistry,初中化学,STEM,20,0.95
+19,veterinary_medicine,兽医学,STEM,23,0.5217391304347826
+20,college_economics,大学经济学,Social Science,55,0.43636363636363634
+21,business_administration,工商管理,Social Science,33,0.5151515151515151
+22,marxism,马克思主义基本原理,Social Science,19,0.6842105263157895
+23,mao_zedong_thought,毛泽东思想和中国特色社会主义理论体系概论,Social Science,24,0.7916666666666666
+24,education_science,教育学,Social Science,29,0.6551724137931034
+25,teacher_qualification,教师资格,Social Science,44,0.8181818181818182
+26,high_school_politics,高中政治,Social Science,19,0.8421052631578947
+27,high_school_geography,高中地理,Social Science,19,0.6842105263157895
+28,middle_school_politics,初中政治,Social Science,21,0.9523809523809523
+29,middle_school_geography,初中地理,Social Science,12,0.75
+30,modern_chinese_history,近代史纲要,Humanities,23,0.782608695652174
+31,ideological_and_moral_cultivation,思想道德修养与法律基础,Humanities,19,0.8421052631578947
+32,logic,逻辑学,Humanities,22,0.45454545454545453
+33,law,法学,Humanities,24,0.5416666666666666
+34,chinese_language_and_literature,中国语言文学,Humanities,23,0.6956521739130435
+35,art_studies,艺术学,Humanities,33,0.6666666666666666
+36,professional_tour_guide,导游资格,Humanities,29,0.8620689655172413
+37,legal_professional,法律职业资格,Humanities,23,0.30434782608695654
+38,high_school_chinese,高中语文,Humanities,19,0.7894736842105263
+39,high_school_history,高中历史,Humanities,20,0.8
+40,middle_school_history,初中历史,Humanities,22,0.9090909090909091
+41,civil_servant,公务员,Other,47,0.5531914893617021
+42,sports_science,体育学,Other,19,0.42105263157894735
+43,plant_protection,植物保护,Other,22,0.5909090909090909
+44,basic_medicine,基础医学,Other,19,0.6842105263157895
+45,clinical_medicine,临床医学,Other,22,0.45454545454545453
+46,urban_and_rural_planner,注册城乡规划师,Other,46,0.6086956521739131
+47,accountant,注册会计师,Other,49,0.5306122448979592
+48,fire_engineer,注册消防工程师,Other,31,0.3870967741935484
+49,environmental_impact_assessment_engineer,环境影响评价工程师,Other,31,0.5483870967741935
+50,tax_accountant,税务师,Other,49,0.46938775510204084
+51,physician,医师资格,Other,49,0.5714285714285714
